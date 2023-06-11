@@ -1,7 +1,13 @@
-* {
-  font-family: Sans-serif;
+ul {
+  list-style-type: none;
 }
 
-li {
-  list-style-type: none;
+#menu {
+  font-size: 13px;
+  float: right;
+  margin-top: 30px;
+  margin-right: 20px;
+  text-align: right;
+  width: 150px;
+  font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
 }
